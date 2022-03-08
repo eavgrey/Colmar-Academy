@@ -155,3 +155,13 @@ h3 {
 .course {
   padding: 16px 16px 24px 16px;
 }
+.footer-link {
+  color: rgb(82, 79, 79);
+}
+footer {
+  border-top: 2px solid rgb(194, 192, 192);
+  display: flex;
+  padding: 16px 24px 32px 24px;
+  font-size: 1rem;
+  justify-content: space-between;
+}
