@@ -99,6 +99,9 @@ nav {
   padding: 16px;
   display: flex;
 }
+.side-information:hover {
+  background-color: rgb(184, 184, 184);
+}
 .side-detalis {
   width: 65%;
   padding-left: 16px;
@@ -124,4 +127,31 @@ font-size: 1rem;
 }
 h3 {
   margin: 0;
+}
+.main-learning {
+ background-color: rgb(194, 192, 192);
+}
+.main-learning-heading {
+  text-align: center;
+  padding-bottom: 32px;
+  margin: 0;
+}
+.learning-box {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 72px;
+}
+.course-img {
+  height: auto;
+  width: 350px;
+}
+.courses {
+  background-color: #fff;
+  width: 350px;
+  margin-right: 22px;
+  margin-bottom: 22px;
+  text-align: left;
+}
+.course {
+  padding: 16px 16px 24px 16px;
 }
