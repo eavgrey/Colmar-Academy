@@ -140,6 +140,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   margin: 0 72px;
+  justify-content: center;
 }
 .course-img {
   height: auto;
@@ -164,4 +165,25 @@ footer {
   padding: 16px 24px 32px 24px;
   font-size: 1rem;
   justify-content: space-between;
+}
+.thesis-heading {
+  text-align: center;
+  margin: 32px 0;
+}
+.thesis-video-box {
+  width: 60%;
+  padding-right: 24px;
+}
+.thesis-video-name {
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+.thesis-video-description {
+  margin: 0;
+}
+.thesis {
+  display: flex;
+}
+.footer-side {
+  border: none;
 }
