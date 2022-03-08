@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
+  font-family: 'Fredoka', sans-serif;
+}
+.nav-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+nav {
+  display: flex;
+  height: 64px;
+  padding: 0 24px;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-link {
+  margin-right: 16px;
+  text-decoration: none;
+  color: black;
+}
+.logo-text {
+  
+  margin: 0;
+}
+.main-icon {
+  height:56px;
+}
+.black {
+  font-weight: 500;
+}
+.grey {
+  color:gray
+}
